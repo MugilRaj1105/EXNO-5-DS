@@ -124,4 +124,5 @@ plt.title('Box Plot')
 
 
 # Result:
+   
    Thus,all the visualization techniques of matplotlib has been implemented
