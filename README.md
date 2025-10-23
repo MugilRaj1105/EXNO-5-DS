@@ -109,6 +109,7 @@ data
 ```
 <img width="725" height="455" alt="image" src="https://github.com/user-attachments/assets/cbc220dc-5b07-4477-9e39-e6c1f65f375c" />
 
+
 ```
 import matplotlib.pyplot as plt
 
@@ -117,7 +118,10 @@ plt.xlabel('Data')
 plt.ylabel('Values')
 plt.title('Box Plot')
 ```
+
 <img width="578" height="455" alt="image" src="https://github.com/user-attachments/assets/d055bdab-6585-4f91-91bc-e6a845eaa36a" />
+
+
 
 # Result:
    Thus,all the visualization techniques of matplotlib has been implemented
